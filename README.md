@@ -1,6 +1,6 @@
 # FTFontLabelCategory
 
-[![CI Status](http://img.shields.io/travis/johnsongs/FTFontLabelCategory.svg?style=flat)](https://travis-ci.org/johnsongs/FTFontLabelCategory)
+[![CI Status](https://travis-ci.org/johnsongs/FTFontLabelCategory.svg?branch=master)](https://travis-ci.org/johnsongs/FTFontLabelCategory)
 [![Version](https://img.shields.io/cocoapods/v/FTFontLabelCategory.svg?style=flat)](http://cocoapods.org/pods/FTFontLabelCategory)
 [![License](https://img.shields.io/cocoapods/l/FTFontLabelCategory.svg?style=flat)](http://cocoapods.org/pods/FTFontLabelCategory)
 [![Platform](https://img.shields.io/cocoapods/p/FTFontLabelCategory.svg?style=flat)](http://cocoapods.org/pods/FTFontLabelCategory)
