@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FTFontLabelCategory'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of FTFontLabelCategory.'
+  s.version          = '0.0.1'
+  s.summary          = 'UILabel Category adjust the Font automatically to fit the size'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,8 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+												UILabel adjust the Font automatically to fit the size
+												UILabel的扩展，根据设置的大小（size）调整Font的大小，顺便封装了增加行间距的方法。
                        DESC
 
   s.homepage         = 'https://github.com/johnsongs/FTFontLabelCategory'
