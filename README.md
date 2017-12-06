@@ -17,7 +17,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 UILabel *label = [[UILabel alloc] initWithFrame:CGRectMake(0, 50, 300, 100)];
 label.text = @"ABC-123";
 label.backgroundColor = [UIColor lightGrayColor];
-[label fontToFit];
+[label **fontToFit**];
 [self.view addSubview:label];
 ```
 
