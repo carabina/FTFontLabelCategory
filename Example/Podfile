@@ -5,7 +5,5 @@ target 'FTFontLabelCategory_Example' do
 
   target 'FTFontLabelCategory_Tests' do
     inherit! :search_paths
-
-    pod 'FBSnapshotTestCase'
   end
 end
