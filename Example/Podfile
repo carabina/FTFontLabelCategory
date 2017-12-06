@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FTFontLabelCategory_Example' do
+  pod 'FTFontLabelCategory', :path => '../'
+
+  target 'FTFontLabelCategory_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
